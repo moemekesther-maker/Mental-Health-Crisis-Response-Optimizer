@@ -44,9 +44,9 @@ need the most mental health crisis resources.
 
 | Model | Accuracy | F1 Score |
 |-------|----------|----------|
-| Crisis Severity | 64.6%  Accuracy |
-| Treatment Outcome | 33.0% Accuracy |
-| Treatment Seeking | 81.3% Accuracy |
+| Crisis Severity | 64.6% | 0.61 |
+| Treatment Outcome | 33.0% | 0.31 |
+| Treatment Seeking | 81.3% |0.81 |
 
 
 
